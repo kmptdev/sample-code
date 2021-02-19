@@ -1,0 +1,1 @@
+# Pally - The Palindrome checker

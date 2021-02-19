@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "src/pally"
+		},
+		{
+			"path": "src/pally.abstractions"
+		},
+		{
+			"path": "tests/pally.functional.tests"
+		},
+		{
+			"path": "src/pally.host"
+		}
+	],
+	"settings": {}
+}

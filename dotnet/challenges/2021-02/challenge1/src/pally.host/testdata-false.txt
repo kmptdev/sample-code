@@ -1,0 +1,8 @@
+doctor
+medic
+hospital
+dentist
+teacher
+hello there mister
+King, are you glad you are king?
+bob
