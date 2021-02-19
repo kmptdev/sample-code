@@ -1,1 +1,1 @@
-# KMPT Software Dev sample-code
+# KMPT Software Dev Sample Code
